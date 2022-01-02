@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-plugin-zymplayer",
+  "version": "1.0.3",
+  "description": "zymPlayer music player",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "keywords": [],
+  "author": "Tmiracle",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-miracle/zymPlayer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/T-miracle/zymPlayer/issues"
+  },
+  "homepage": "https://github.com/T-miracle/zymPlayer#readme"
+}
