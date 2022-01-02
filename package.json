@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-zymplayer",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "zymPlayer music player",
   "main": "index.js",
   "engines": {
